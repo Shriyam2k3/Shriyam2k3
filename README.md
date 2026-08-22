@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Shriyam Rastogi
 
-### 💻 Full Stack MERN Developer | 🚀 Backend Enthusiast | 🎓 Final Year CSE Student
+### 💻 Full Stack Developer | 🚀 Backend Enthusiast | 🎓 Final Year CSE Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3FA9F5&center=true&vCenter=true&width=650&lines=Full+Stack+MERN+Developer;Backend+Developer;C%2B%2B+Programmer;DSA+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3FA9F5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;C%2B%2B+Programmer;DSA+Enthusiast;Building+Real+World+Projects" />
 
 <p>
 <a href="https://github.com/Shriyam2k3">
@@ -14,7 +14,6 @@
 <a href="https://komarev.com/ghpvc/?username=Shriyam2k3">
 <img src="https://komarev.com/ghpvc/?username=Shriyam2k3&style=for-the-badge"/>
 </a>
-
 </p>
 
 </div>
@@ -25,22 +24,42 @@
 
 🎓 Final Year B.Tech Computer Science Student
 
-💻 Passionate about building scalable Full Stack Applications
+💻 Passionate about building scalable and user-focused web applications
 
-🚀 Interested in Backend Development & System Design
+🚀 Interested in Full Stack Development, Backend Engineering & System Design
 
-🧠 Solving Data Structures & Algorithms regularly
+🧠 Regularly practicing Data Structures & Algorithms
 
-🌱 Currently improving my MERN Stack skills
+🌱 Currently strengthening my MERN Stack and backend development skills
 
-🎯 Looking for Software Development Opportunities
+🎯 Looking for Software Development opportunities
 
 ---
 
 # 🛠 Tech Stack
 
+### Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=cpp,java,javascript" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+</p>
+
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
@@ -49,43 +68,51 @@
 
 ## 🤖 AI Code Review Assistant
 
-✔ AI-powered code review platform
+An AI-powered platform that analyzes source code and provides intelligent code review feedback.
 
-✔ Authentication & Authorization
+### Features
 
-✔ PDF Report Export
+* AI-powered code analysis
+* Bug and code-quality detection
+* Security and optimization suggestions
+* JWT-based authentication
+* PDF report generation
 
-**Tech Stack**
+### Tech Stack
 
-React • Node.js • Express • MongoDB
+**React.js • Node.js • Express.js • MongoDB • Groq Llama API • JWT**
 
-🔗 Repository:
+🔗 **Repository:**
 https://github.com/Shriyam2k3/AI-Code-Review
 
----
-
-## 🏡 Wanderlust
-
-A Full Stack Airbnb-inspired web application featuring
-
-- Authentication
-- Property Listings
-- Reviews
-- Image Upload
-
-**Tech Stack**
-
-MongoDB • Express • React • Node.js
+🌐 **Live Website:**
+https://ai-code-review-1r5d.onrender.com
 
 ---
 
-## ✍️ Document Signature Platform
+## 🏡 Wanderlust – Full Stack Airbnb Clone
 
-Secure platform to
+A full-stack Airbnb-inspired accommodation platform where users can explore, create and manage property listings.
 
-- Upload Documents
-- Sign PDFs
-- Download Signed Files
+### Features
+
+* User authentication and authorization
+* Property listing CRUD operations
+* Image uploads with Cloudinary
+* Reviews and ratings
+* Location-based listings with Mapbox
+* Responsive UI
+* Deployed on Render
+
+### Tech Stack
+
+**Node.js • Express.js • MongoDB • Mongoose • EJS • Passport.js • Cloudinary • Mapbox**
+
+🔗 **Repository:**
+https://github.com/Shriyam2k3/Wnderlust-Full-Stack-Airbnb-Project
+
+🌐 **Live Website:**
+https://wnderlust-full-stack-airbnb-project.onrender.com/listings
 
 ---
 
@@ -95,7 +122,7 @@ Secure platform to
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shriyam2k3&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Shriyam2k3&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Shriyam2k3&theme=tokyonight"/>
 
 </p>
 
@@ -133,13 +160,11 @@ Secure platform to
 
 # 🎯 Current Focus
 
-- 🚀 Building Real World MERN Applications
-
-- 🧠 Solving LeetCode Problems Daily
-
-- 📚 Improving Backend Development Skills
-
-- 💼 Preparing for Software Developer Placements
+* 🚀 Building real-world full-stack applications
+* 🧠 Solving LeetCode and improving DSA
+* 📚 Strengthening backend and system design concepts
+* 🤖 Exploring AI integration in web applications
+* 💼 Preparing for Software Development placements
 
 ---
 
@@ -148,21 +173,15 @@ Secure platform to
 <p align="center">
 
 <a href="https://github.com/Shriyam2k3">
-
 <img src="https://skillicons.dev/icons?i=github" width="50"/>
-
 </a>
 
 <a href="https://linkedin.com/in/shriyam-rastogi-250857280">
-
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-
 </a>
 
 <a href="https://leetcode.com/u/Shriyam2k3/">
-
 <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50"/>
-
 </a>
 
 </p>
@@ -173,12 +192,9 @@ Secure platform to
 
 > "Consistency beats talent when talent doesn't work consistently."
 
----
-
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
 
-Let's connect and build something awesome together 🚀
-
 </div>
+
