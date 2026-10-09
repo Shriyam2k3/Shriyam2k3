@@ -109,7 +109,6 @@ A full-stack vehicle rental platform that allows users to discover vehicles, che
 
 *Status: Ongoing*
 
-🔗 [GitHub Repository](https://github.com/jeevan-aj/Rent-a-Ride)
 
 ---
 
