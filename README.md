@@ -1,200 +1,197 @@
-<div align="center">
+ <div align="center">
 
 # Hi 👋, I'm Shriyam Rastogi
 
-### 💻 Full Stack Developer | 🚀 Backend Enthusiast | 🎓 Final Year CSE Student
+### Full Stack Developer | Backend Engineering | Building Real-World Applications
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1200&color=3FA9F5&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Backend+Developer;C%2B%2B+Programmer;DSA+Enthusiast;Building+Real+World+Projects" />
+I build scalable web applications, REST APIs, and real-time systems with modern web technologies.
 
 <p>
-<a href="https://github.com/Shriyam2k3">
-<img src="https://img.shields.io/github/followers/Shriyam2k3?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-<a href="https://komarev.com/ghpvc/?username=Shriyam2k3">
-<img src="https://komarev.com/ghpvc/?username=Shriyam2k3&style=for-the-badge"/>
-</a>
+  <a href="https://github.com/Shriyam2k3">
+    <img src="https://img.shields.io/github/followers/Shriyam2k3?style=for-the-badge&logo=github&label=GitHub%20Followers" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shriyam2k3&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 Final Year B.Tech Computer Science Student
-
-💻 Passionate about building scalable and user-focused web applications
-
-🚀 Interested in Full Stack Development, Backend Engineering & System Design
-
-🧠 Regularly practicing Data Structures & Algorithms
-
-🌱 Currently strengthening my MERN Stack and backend development skills
-
-🎯 Looking for Software Development opportunities
+- 🎓 B.Tech Computer Science Engineering student at VIT Bhopal University
+- 💻 Focused on full-stack development and backend engineering
+- ⚙️ Interested in REST APIs, authentication, databases, and real-time systems
+- 🤖 Exploring AI integration in practical web applications
+- 🧠 Practicing Data Structures and Algorithms for software engineering interviews
+- 🚀 Currently strengthening my skills in Next.js, TypeScript, and modern backend development
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,java" alt="Programming Languages"/>
 </p>
 
-### Frontend
+**Frontend Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend Technologies"/>
 </p>
 
-### Backend & Database
+**Backend & Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend Technologies"/>
 </p>
 
-### Tools
+**Tools & Platforms**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,vercel" alt="Development Tools"/>
 </p>
 
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Code Review Assistant
-
-An AI-powered platform that analyzes source code and provides intelligent code review feedback.
-
-### Features
-
-* AI-powered code analysis
-* Bug and code-quality detection
-* Security and optimization suggestions
-* JWT-based authentication
-* PDF report generation
-
-### Tech Stack
-
-**React.js • Node.js • Express.js • MongoDB • Groq Llama API • JWT**
-
-🔗 **Repository:**
-https://github.com/Shriyam2k3/AI-Code-Review
-
-🌐 **Live Website:**
-https://ai-code-review-1r5d.onrender.com
+**Core Concepts:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, JWT Authentication, Role-Based Access Control, REST APIs, WebSockets.
 
 ---
 
-## 🏡 Wanderlust – Full Stack Airbnb Clone
+## 🚀 Featured Projects
 
-A full-stack Airbnb-inspired accommodation platform where users can explore, create and manage property listings.
+### 1. Last-Mile Delivery & Logistics Platform
 
-### Features
+A full-stack logistics platform designed to manage shipments, delivery operations, and real-time order tracking.
 
-* User authentication and authorization
-* Property listing CRUD operations
-* Image uploads with Cloudinary
-* Reviews and ratings
-* Location-based listings with Mapbox
-* Responsive UI
-* Deployed on Render
+**Key Features**
+- Separate customer, delivery-agent, and admin portals
+- Live GPS tracking and road-based route visualization
+- Freight pricing based on volumetric weight, zone-based rates, and COD surcharges
+- AI-assisted delivery risk estimation, ETA prediction, and address correction
+- Order lifecycle and fleet management
 
-### Tech Stack
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · JWT · Leaflet · OSRM · Groq LLaMA 3.3
 
-**Node.js • Express.js • MongoDB • Mongoose • EJS • Passport.js • Cloudinary • Mapbox**
-
-🔗 **Repository:**
-https://github.com/Shriyam2k3/Wnderlust-Full-Stack-Airbnb-Project
-
-🌐 **Live Website:**
-https://wnderlust-full-stack-airbnb-project.onrender.com/listings
+🔗 [GitHub Repository](https://github.com/Shriyam2k3/Last-Mile-Delivery) · [Live Demo](https://last-mile-delivery-orcin.vercel.app/login)
 
 ---
 
-# 📊 GitHub Analytics
+### 2. MediSync — Smart Hospital Management System
 
-<p align="center">
+A full-stack hospital management application with web and desktop support, real-time synchronization, and AI-assisted healthcare interactions.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shriyam2k3&show_icons=true&theme=tokyonight"/>
+**Key Features**
+- Appointment, patient, prescription, laboratory, pharmacy, and billing management
+- Role-based access control for six user roles
+- Real-time appointment queue synchronization using WebSockets
+- AI-assisted multilingual healthcare interactions
+- Desktop application support using Electron.js
 
-<img height="170" src="https://streak-stats.demolab.com?user=Shriyam2k3&theme=tokyonight"/>
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Socket.io · Google Gemini API · JWT · Electron.js
 
-</p>
-
-<p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriyam2k3&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shriyam2k3&theme=tokyo-night"/>
-
-</p>
+🔗 [GitHub Repository](https://github.com/Shriyam2k3/Smart-Hospital-Management-System) · [Live Demo](https://smart-hospital-management-system-ochre.vercel.app/)
 
 ---
 
-# 🧩 Coding Profiles
+### 3. Rent-a-Ride — Car Rental Platform
 
-<p align="center">
+A full-stack vehicle rental platform that allows users to discover vehicles, check availability, and manage bookings.
 
-<a href="https://leetcode.com/u/Shriyam2k3/">
+**Key Features**
+- Vehicle browsing, search, and filtering
+- Date-based availability validation to prevent overlapping bookings
+- Firebase Authentication with email/password and Google Sign-In
+- Role-based workflows for users, vendors, and administrators
+- Booking confirmation, status tracking, and booking history
 
-<img src="https://leetcard.jacoblin.cool/Shriyam2k3?theme=dark&font=Poppins"/>
+**Tech Stack:** Next.js · Node.js · Express.js · MongoDB Atlas · Firebase Authentication
 
-</a>
+*Status: Ongoing*
 
-</p>
-
----
-
-# 🎯 Current Focus
-
-* 🚀 Building real-world full-stack applications
-* 🧠 Solving LeetCode and improving DSA
-* 📚 Strengthening backend and system design concepts
-* 🤖 Exploring AI integration in web applications
-* 💼 Preparing for Software Development placements
+🔗 [GitHub Repository](https://github.com/jeevan-aj/Rent-a-Ride)
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Shriyam2k3">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://linkedin.com/in/shriyam-rastogi-250857280">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://leetcode.com/u/Shriyam2k3/">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="50"/>
-</a>
-
-</p>
-
----
-
-# 💡 Quote
-
-> "Consistency beats talent when talent doesn't work consistently."
+## 📊 GitHub Statistics
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shriyam2k3&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Statistics"/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Shriyam2k3&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shriyam2k3&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shriyam2k3&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity"/>
+
+</div>
+
+---
+
+## 🧠 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Shriyam2k3/">
+  <img src="https://leetcard.jacoblin.cool/Shriyam2k3?theme=dark&font=Baloo+Bhai+2&ext=heatmap" alt="LeetCode Profile"/>
+</a>
+
+<br/><br/>
+
+**200+ LeetCode Problems** · **100+ GeeksforGeeks Problems**
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Building production-oriented full-stack applications
+- Improving DSA and problem-solving skills
+- Deepening my understanding of backend architecture and API design
+- Learning modern development workflows and deployment practices
+- Exploring practical AI integrations in web applications
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Shriyam2k3">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/shriyam-rastogi-250857280">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/Shriyam2k3/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+📧 **Email:** shriyamrastogi123@gmail.com
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Improve. Repeat.
+
+*Thanks for visiting my profile! ⭐*
 
 </div>
 
