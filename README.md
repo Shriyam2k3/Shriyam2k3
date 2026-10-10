@@ -107,7 +107,8 @@ A full-stack vehicle rental platform that allows users to discover vehicles, che
 
 **Tech Stack:** Next.js · Node.js · Express.js · MongoDB Atlas · Firebase Authentication
 
-*Status: Ongoing*
+🔗 [GitHub Repository](https://github.com/Shriyam2k3/Rent-a-Ride) · [Live Demo](https://rent-a-ride-nu.vercel.app/)
+
 
 
 ---
